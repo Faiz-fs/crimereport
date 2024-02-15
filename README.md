@@ -1,6 +1,7 @@
 # crimereport
 
 SYSTEM REQUIREMNETS
+
     • Operating System: Windows , Mac OS, Linux Kernal. (platform independent)
     • Processor: Dual Core 1.4GHz Processor 
     • RAM: Minimum 4 GB 
@@ -8,6 +9,7 @@ SYSTEM REQUIREMNETS
     • Software: Python 3.7.0
 
 OBJECTIVE OF THE PROJECT
+
 The main objective of the Online Crime Reporting System is to manage the details of Crime, Criminal, Public, Solutions, Department. It manages all the information about Crime, Complaint, Department, Crime. The project is totally built at user and administrator end and thus only the administrator is guaranteed the access and safety of the user who report crime.
 The user can:
     • Report crime without their names
@@ -22,6 +24,7 @@ All the details of crime ,complaints, and reports are stored in an CSV file with
 Therefore, this project helps to maintain a security and simple interface for the user and administrator.
 
 MODULES PURPOSES AND CODING
+
  Modules Used
     • flask
     • os
@@ -70,6 +73,7 @@ Data stored in excel
 ![image](https://github.com/Faiz-fs/crimereport/assets/118742111/7148d6d3-b77f-4976-a26d-5844df186a0a)
 
 CONCLUSION
+
                   In this paper, a completely integrated and compact system is developed that can be used by the common man as well as the police and this system would be like a win-win situation for both of them. This project will be widely used in the future by the police department, the common man, security agencies and even hospitals (for accident and assault victims). The greatest strength of this project is that it offers new features as well as retaining the original characteristics of the existing systems(for example: Criminal Database).
 
 
