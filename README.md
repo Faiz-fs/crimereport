@@ -74,8 +74,11 @@ Data stored in excel
 
 CONCLUSION
 
-                  In this paper, a completely integrated and compact system is developed that can be used by the common man as well as the police and this system would be like a win-win situation for both of them. This project will be widely used in the future by the police department, the common man, security agencies and even hospitals (for accident and assault victims). The greatest strength of this project is that it offers new features as well as retaining the original characteristics of the existing systems(for example: Criminal Database).
+In this paper, a completely integrated and compact system is developed that can be used by the common man as well as the police and this system would be like a win-win situation for both of them. This project will be widely used in the future by the 
+police department, the common man, security agencies and even hospitals (for accident and assault victims). The greatest strength of this project is that it offers new features as well as retaining the original characteristics of the existing 
+systems(for example: Criminal Database).
 
+                  
 
 
 
